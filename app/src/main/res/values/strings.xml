@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">冠位天气</string>
+    <string name="backButton">返回</string>
+    <string name="locButton">定位</string>
+    <string name="titleCityTextView">城市</string>
+    <string name="titleUpdateTimeTextView">更新时间</string>
+    <string name="nowCondTextView">当前天气状况</string>
+    <string name="nowTmpTextView">当前温度</string>
+    <string name="hourlyTimeView">每小时时间</string>
+    <string name="hourlyCondView">每小时天气状况</string>
+    <string name="hourlyTmpView">每小时温度</string>
+    <string name="hourlyTextView">千里眼(时)EX</string>
+    <string name="forecastTextView">千里眼(日)EX</string>
+    <string name="dateTextView">日期</string>
+    <string name="tmpMaxTextView">最高温度</string>
+    <string name="tmpMinTextView">最低温度</string>
+    <string name="tmpMaxMinTextView">温度（高/低）</string>
+    <string name="condTextView">天气状况</string>
+    <string name="aboutWeather">气象信息及天气状况图片来源：和风天气(HeWeather)</string>
+    <string name="aboutBackImage">背景图片来源：必应搜索(bing)</string>
+</resources>
